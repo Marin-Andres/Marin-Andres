@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting engineering projects
 - 📫 How to reach me andres.marin@gmx.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm an Electronics Engineer with different hobbies ranging from games to bird watching
+- ⚡ Fun fact: I'm an Electronics Engineer from Costa Rica living in Australia with different hobbies ranging from games to bird watching
 
 <!---
 Marin-Andres/Marin-Andres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
